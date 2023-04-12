@@ -1,0 +1,14 @@
+{
+  "target": "es5",
+  "module": "commonjs",
+  "outDir": "./dist",
+  "strict": false,
+  "typeRoots": [
+    "./node_modules/@types"
+  ],
+  "esModuleInterop": true,
+  "skipLibCheck": true,
+  "forceConsistentCasingInFileNames": true,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true
+}
